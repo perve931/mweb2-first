@@ -12,3 +12,5 @@ MWEB2
 	```
 	下载所有的依赖包
 3.使用`npm start`运行
+
+4.new Vue is MAS
